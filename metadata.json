@@ -1,0 +1,6 @@
+{
+  "name": "Posyandu Digital PWA",
+  "description": "Sistem Informasi Posyandu Terpadu dengan Fitur PWA, KMS Digital Balita, Ibu Hamil, Penimbangan WHO, dan Exporter PHP Native + MySQL",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

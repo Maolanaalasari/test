@@ -1,0 +1,22 @@
+{
+  "short_name": "Posyandu PWA",
+  "name": "Posyandu Digital PWA - Sistem Informasi Posyandu",
+  "description": "Aplikasi Sistem Informasi Posyandu Terpadu untuk Pendataan Balita, KMS, dan Penimbangan",
+  "icons": [
+    {
+      "src": "pwa-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "pwa-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f8fafc",
+  "theme_color": "#0284c7",
+  "display": "standalone",
+  "orientation": "portrait"
+}
